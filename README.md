@@ -10,11 +10,11 @@ Topics:
 5. Recursions
 
 Popular Algorithm Questions:
-1. String reversal
-2. Palindrome
-3. Integer Reversal
-4. Fizz Buzz
-5. Max Character
+1. String reversal √
+2. Palindrome √
+3. Integer Reversal √
+4. Fizz Buzz √
+5. Max Character √
 6. Anagrams
 7. Vowels
 8. Array Chunking
